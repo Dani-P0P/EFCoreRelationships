@@ -1,2 +1,3 @@
 # EFCoreRelationships
-# "Dirty" app with all db relationships
+
+"Dirty" app with all db relationships
